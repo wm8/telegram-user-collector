@@ -1,0 +1,4 @@
+Создание миграции
+alembic revision --autogenerate -m "Сообщение"
+Применение миграции
+alembic upgrade head

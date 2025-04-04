@@ -1,0 +1,9 @@
+channels:
+  - username: "channel1"
+    id: 12345
+    collect_reactions: true
+  - username: "group1"
+    id: 67890
+    collect_comments: false
+
+polling_interval: 300  # 5 минут
